@@ -1,0 +1,48 @@
+body {
+  font-family: "Droid Sans Mono", Menlo, Monaco, Consolas, "Courier New", monospace !important;
+}
+
+.base-container {
+  margin: 0 auto;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+.flex-container {
+  height: 100%;
+  display: flex;
+}
+
+.fc-container {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.fs-container {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.tc {
+  text-align: center;
+}
+
+.page {
+  padding: 18px;
+  border: 1px solid #dbdbdb;
+  border-top: none;
+  border-bottom-right-radius: 4px;
+  border-bottom-left-radius: 4px;
+}
+
+.b-tabs:not(:last-child) {
+  margin-bottom: 0 !important;
+}
+
+.tab-content {
+  display: none !important;
+}
