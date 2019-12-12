@@ -1,8 +1,8 @@
 {
-  "name": "opensfp-ui",
-  "version": "1.0.0",
-  "author": "",
-  "description": "A Graphical Frontend for opensfp.",
+  "name": "OpenSFP-UI",
+  "version": "1.0.1",
+  "author": "OpenSFP",
+  "description": "A Graphical Frontend for OpenSFP.",
   "license": "MIT",
   "main": "./dist/electron/main.js",
   "scripts": {
@@ -38,8 +38,8 @@
     ]
   },
   "build": {
-    "productName": "opensfp-ui",
-    "appId": "com.opensfp.opensfp-ui",
+    "productName": "OpenSFP-UI",
+    "appId": "com.opensfp.OpenSFP-UI",
     "directories": {
       "output": "build"
     },

@@ -25,7 +25,7 @@ function createWindow() {
   } = require('../../package.json');
 
   mainWindow = new BrowserWindow({
-    title: `opensfp-ui ${version}`,
+    title: `OpenSFP-UI ${version}`,
     height: 960,
     width: 1280,
     minWidth: 450,

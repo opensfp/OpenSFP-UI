@@ -1,6 +1,6 @@
-# opensfp
+# OpenSFP-UI
 
-> A Graphical Frontend for opensfp.
+> A Graphical Frontend for OpenSFP.
 
 #### Build Setup
 

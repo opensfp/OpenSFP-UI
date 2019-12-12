@@ -31,7 +31,7 @@
         </b-dropdown-item>
         <hr class="dropdown-divider" aria-role="menuitem" />
         <b-dropdown-item aria-role="menuitem">
-          About opensfp
+          About OpenSFP
         </b-dropdown-item>
       </b-dropdown>
     </div>
